@@ -48,5 +48,7 @@ Verify the generated waveform using Tabulation and Model Waveform
 __PROGRAM:__
 
 __OUTPUT:__
+![WhatsApp Image 2025-11-23 at 16 44 13_73aa2e4d](https://github.com/user-attachments/assets/a0af871a-92a9-4b35-9c03-e567d61b3281)
 
 __RESULT:__
+Thus, the Auto Correction and PSD are ececuted in SCILAB and output is verified.
